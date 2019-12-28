@@ -1,0 +1,9 @@
+{
+	"name": "easyHTTP",
+	"version": "1.0.0",
+	"description": "HTTP request library",
+	"main": "easyHTTP.js",
+	"repository": "https://github.com/asamad05/easyHTTP",
+	"author": "Abdul Samad",
+	"license": "MIT"
+}
