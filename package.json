@@ -1,6 +1,6 @@
 {
 	"name": "easyHTTP",
-	"version": "2.0.0",
+	"version": "3.0.0",
 	"description": "HTTP request library",
 	"main": "easyHTTP.js",
 	"repository": "https://github.com/asamad05/easyHTTP",
